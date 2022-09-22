@@ -1,0 +1,107 @@
+[Ubuntu]
+# Australia
+archive.ubuntu.com  # a b c
+mirror.aarnet.edu.au/pub  # a b c
+mirror.internet.asn.au/pub
+
+# China
+archive.ubuntu.com
+mirror.nju.edu.cn  # Nanjing University
+mirrors.bfsu.edu.cn  # Beijing Foreign Studies University
+mirrors.huaweicloud.com  # Huawei cloud
+mirror.sjtu.edu.cn  # Shanghai Jiao Tong University
+mirrors.tuna.tsinghua.edu.cn  # Tsinghua University
+mirrors.ustc.edu.cn  # University of Science and Technology of China
+
+# Germany
+archive.ubuntu.com  # a b c
+ftp.halifax.rwth-aachen.de  # a b c
+ftp.uni-stuttgart.de  # a b c
+mirror.dogado.de  # a b c
+
+# India
+archive.ubuntu.com  # a b c
+in.mirror.coganng.com  # a b c
+mirror.cse.iitk.ac.in  # a b c
+
+# Japan
+archive.ubuntu.com  # a b c
+ftp.udx.icscoe.jp/Linux  # a b c
+linux.yz.yamagata-u.ac.jp  # a b c
+ftp.jaist.ac.jp/pub/Linux  # a b c
+
+# Russia
+archive.ubuntu.com  # a b c
+mirror.truenetwork.ru  # a b c
+
+# United Kingdom
+archive.ubuntu.com  # a b c
+mirror.cov.ukservers.com  # a b c
+mirrors.ukfast.co.uk/sites/archive.ubuntu.com  # a b c
+uk.mirrors.clouvider.net  # a b c
+
+# United States
+archive.ubuntu.com  # a b c
+mirror.enzu.com  # a b c
+mirror.genesisadaptive.com  # a b c
+
+# Ubuntu test## # # 123 
+ubuntu.Debian.test # 123
+b123  # a b c
+abc  # a b c
+
+
+[Debian]
+
+# Australia
+ftp.au.debian.org  # a b c
+debian.mirror.serversaustralia.com.au  # a b c
+mirror.linux.org.au  # a b c
+
+# China
+ftp.hk.debian.org  # Hong Kong
+ftp.tw.debian.org  # Taiwan
+mirror.nju.edu.cn  # Nanjing University
+mirrors.bfsu.edu.cn  # Beijing Foreign Studies University
+mirrors.huaweicloud.com  # Huawei cloud
+mirror.sjtu.edu.cn  # Shanghai Jiao Tong University
+mirrors.tuna.tsinghua.edu.cn  # Tsinghua University
+mirrors.ustc.edu.cn  # University of Science and Technology of China
+
+# Germany
+debian.mirror.iphh.net  # a b c
+debian.mirror.lrz.de  # a b c
+debian.netcologne.de  # a b c
+debian.tu-bs.de  # a b c
+
+# India
+debian.mirror.net.in  # a b c
+mirror.cse.iitk.ac.in  # a b c
+
+# Japan
+ftp.jp.debian.org  # a b c
+ftp.kddilabs.jp  # a b c
+ftp.nara.wide.ad.jp  # a b c
+ftp.yz.yamagata-u.ac.jp  # a b c
+
+# Russia
+ftp.ru.debian.org  # a b c
+mirror.docker.ru  # a b c
+
+# United Kingdom
+ftp.uk.debian.org  # a b c
+debian.mirrors.uk2.net  # a b c
+debian.mirror.uk.sargasso.net  # a b c
+free.hands.com  # a b c
+ftp.ticklers.org  # a b c
+
+# United States
+ftp.us.debian.org  # a b c
+debian.cc.lehigh.edu  # a b c
+debian.csail.mit.edu  # a b c
+debian.gtisc.gatech.edu  # a b c
+
+# Debian test# # asf
+debian.Ubuntu.test # 17256
+b321  # a b c
+cba  # a b c
